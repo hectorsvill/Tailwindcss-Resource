@@ -11,6 +11,8 @@ Here are some great resources for learning and working with Tailwind CSS:
   * **Video Course**: [Tailwind CSS v4 Full Course 2025](https://youtu.be/6biMWgD6_JY?si=YJCYCRIWjjyK0XSY) - A comprehensive video tutorial to master Tailwind.
   * **Flexbox Game**: [Flexbox Froggy](https://flexboxfroggy.com/) - A fun, interactive game to learn the fundamentals of Flexbox.
   * **Grid Game**: [CSS Grid Garden](https://cssgridgarden.com/) - A game that teaches you the ins and outs of CSS Grid.
+  
+  * **Set of designed components**: [shadcn](https://ui.shadcn.com/)
 
 -----
 
